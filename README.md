@@ -1,4 +1,4 @@
-#gitkraiken_workshop
+##gitkraiken_workshop
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
